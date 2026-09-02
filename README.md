@@ -2,7 +2,7 @@
 
 ### PhD Economist | Data Scientist | Machine Learning Engineer
 
-I am a **PhD Economist** with **4+ years of experience** bridging the gap between rigorous economic theory and advanced data science. I specialize in quantitative analysis, statistical modeling, and building end-to-end machine learning pipelines—from raw data collection to production deployment.
+I am a **PhD Economist** with **4+ years of experience** in statistical model and quantitative Analysis. Expertise in bridging the gap between rigorous economic theory and advanced data science. I specialize in building end-to-end machine learning pipelines—from raw data collection to production deployment.
 
 ---
 
