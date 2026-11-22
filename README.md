@@ -41,15 +41,6 @@ A few milestones:
 | **Research & Quantitative Methods** | Questionnaire Design, Survey Data Analysis, Primary Data Collection, Sampling Design, Econometric Analysis, Policy Evaluation, Economic Modelling |
 | **Business & Analytical Skills** | Business Analytics, Problem Solving, Critical Thinking, Data-Driven Decision Making, Requirements Analysis, Business Intelligence, Analytical Storytelling |
 
-### Currently Learning
-
-| Category | Tools & Technologies |
-|---|---|
-| **Cloud Computing** | Microsoft Azure |
-| **Data Engineering & Pipelines** | Apache Airflow, ETL/ELT Pipelines |
-| **Data Science & Deployment** | Docker, MLflow |
-| **Advanced AI** | LangChain, LLM Application Development |
-
 ---
 
 ### Featured Projects
